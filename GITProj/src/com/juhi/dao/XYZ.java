@@ -4,6 +4,8 @@ public class XYZ {
 
 	public void m1() {
 		System.out.println("XYZ(method): m1 for testing");
+		
+		System.out.println("hello juhi");
 	}
 
 }
